@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.0.5)
+  - Kingfisher (5.14.0):
+    - Kingfisher/Core (= 5.14.0)
+  - Kingfisher/Core (5.14.0)
+  - LinearProgressBarMaterial (1.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - Kingfisher
+  - LinearProgressBarMaterial
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - LinearProgressBarMaterial
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  Kingfisher: 7b64389a43139c903ec434788344c288217c792d
+  LinearProgressBarMaterial: 84df3135c27a0fc5e0219da10ee98304de159b06
+
+PODFILE CHECKSUM: c4a057c9cdc057a84796274eada5ec366dd2e2d7
+
+COCOAPODS: 1.9.2

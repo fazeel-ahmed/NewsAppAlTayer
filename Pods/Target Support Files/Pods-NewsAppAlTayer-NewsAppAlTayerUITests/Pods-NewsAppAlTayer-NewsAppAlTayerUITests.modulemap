@@ -1,0 +1,6 @@
+framework module Pods_NewsAppAlTayer_NewsAppAlTayerUITests {
+  umbrella header "Pods-NewsAppAlTayer-NewsAppAlTayerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
